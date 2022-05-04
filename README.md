@@ -1,5 +1,5 @@
 Steps of Cleaning Data:
-1. Making a copy of data
+1. Making a backup copy of data
 2. Change names to proper case
 3. Check spelling errors
 4. Dealing with null and blank values
